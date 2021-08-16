@@ -1,11 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
- ed on Thu Dec  3 16:17:36 2020
-
-@author: hp
-"""
-
-
 #import modules
 from tkinter import *
 import tkinter.messagebox
