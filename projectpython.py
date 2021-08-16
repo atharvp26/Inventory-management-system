@@ -311,30 +311,8 @@ class Database:
         con.commit()
         con.close()
         print(pid,"Database : update method finished\n")
-        
-        
-        
-        
-        
-        
-        
-    
-    
-        
-        
-        
-        
-        
-        
-        
-        
-        
-     
-        
-        
-        
-        
-if __name__=='__main__':
+  
+ if __name__=='__main__':
     root=Tk()
     application = product(root)
     root.mainloop()
